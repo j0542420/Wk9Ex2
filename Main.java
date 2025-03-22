@@ -30,11 +30,6 @@ class Main {
         //outputs the results for the area and perimeter
         System.out.println("Area of the rectangle: " + area );
         System.out.println("Perimeter of the rectangle: " + perimeter);
-
-        System.out.println("Enter username");
-
-        String userName = myObj.nextLine();  // Read user input
-        System.out.println("Username is: " + userName);  // Output user input
     }
   }
 }
